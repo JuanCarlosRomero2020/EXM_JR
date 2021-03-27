@@ -6,7 +6,7 @@ MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
 1.0     08/02/2019   JJAUSSI       1. Built this table for LDS BC IT240
-
+1.1     03/23/2021   JCRomero      1. Built this table for LDS BC IT243
 
 RUNTIME: 
 Approx. 0 min
